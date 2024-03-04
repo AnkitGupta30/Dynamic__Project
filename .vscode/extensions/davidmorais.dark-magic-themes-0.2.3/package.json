@@ -1,0 +1,68 @@
+{
+	"name": "dark-magic-themes",
+	"publisher": "DavidMorais",
+	"displayName": "Dark Magic Themes",
+	"author": "David Morais (Dark Magic Studios)",
+	"icon": "icon.png",
+	"repository": "https://github.com/Dark-Magic-Studios/dark-magic-themes",
+	"description": "A collection of dark 🖤 themes with tones of green and blue",
+	"version": "0.2.3",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"scripts": {
+		"build": "vsce package",
+		"deploy": "vsce publish"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Magic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-color-theme.json"
+			},
+			{
+				"label": "Dark Magic Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-night-color-theme.json"
+			},
+			{
+				"label": "Dark Magic Nord",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-nord-color-theme.json"
+			},
+			{
+				"label": "Dark Magic Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-dracula-color-theme.json"
+			},
+			{
+				"label": "Dark Magic Frankenstein",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-frankenstein-color-theme.json"
+			},
+			{
+				"label": "Dark Magic Tokyo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-magic-tokyo-color-theme.json"
+			}
+		]
+	},
+	"dependencies": {
+		"@vscode/vsce": "^2.23.0"
+	},
+	"__metadata": {
+		"id": "fd650e5a-054b-41d8-a5b4-c638eba873c8",
+		"publisherId": "bb0c26f1-e47c-44d9-ac29-6f82083a1e21",
+		"publisherDisplayName": "David Morais",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1708245881995,
+		"pinned": false
+	}
+}

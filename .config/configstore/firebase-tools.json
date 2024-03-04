@@ -1,0 +1,38 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1694934807321
+	},
+	"usage": true,
+	"analytics-uuid": "66d401c0-ba2f-4485-bcbd-cb5fefe2df24",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112823906990848724099",
+		"email": "ankitkumar01121@gmail.com",
+		"email_verified": true,
+		"at_hash": "lpp58CF0ib0RDFkOGcDI9g",
+		"iat": 1694934920,
+		"exp": 1694938520
+	},
+	"tokens": {
+		"expires_at": 1694949310014,
+		"refresh_token": "1//0g71xezmr2OgICgYIARAAGBASNwF-L9Ir8aT9-iAXlhFMdPAZH3vh-lK9brT7UQ4ZH7K4H6ffLfZ5FlecLIYk_rzvG34ULTEn_KI",
+		"scopes": [],
+		"access_token": "ya29.a0AfB_byCryKpj49aNtLH7g5h7JLiQhQt80EquM2dl86LmPF1xlJ-pj12VasfU1yCCv6uKBFyumNlgtUDfz-DI9TxGETV2SIwPKN2KZJoANNgxncd5sSEGBbuj-ld3v6ZYBGfAFMaK7BYBB7tSXfFSRyW0_XSu8OCv-NgOL45tdgaCgYKAbsSARISFQGOcNnCQoGsGVgG03LU8soBNm8jzw0177",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdjMGI2OTEzZmUxMzgyMGEzMzMzOTlhY2U0MjZlNzA1MzVhOWEwYmYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyODIzOTA2OTkwODQ4NzI0MDk5IiwiZW1haWwiOiJhbmtpdGt1bWFyMDExMjFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJxMW1ZYlFLQ0d5bm5UUnNyTFVVVzNnIiwiaWF0IjoxNjk0OTQ1NzEzLCJleHAiOjE2OTQ5NDkzMTN9.HnwdqHn8RrZQE-NLrxVPyLEJUKVDo75ZrCA4_GP-uPMzUW3OmYidSKrL5vwHvcWtUz-CTH-CDmNu1LU_SLW6MlefB8UDQeS3MErA282qBVT-JspErn8anf07z4LZI9gaVSd8qWIJS8mqKXd6XAJdcsJQfHhSkrt7HcCVL7DYdIgfOyBf4UpL8jahgFJ1g25ZUx7VbTO6Ve09gLV4rC7B8JthvF5jPspymTsfbRmnLpxuMyy2WkdWx14tCjdIKGXsEqc66pLia2w_ZZK6t3VTYs9FeT2BYtG6s3adSQ9uIyu_HacgQQ54qNEHc6cIicC758fzFlsZHbs9orR3MyL_7Q"
+	},
+	"activeProjects": {
+		"C:\\Users\\ankit\\React project\\Google Clone\\google-clone": "clone-9cd7c"
+	}
+}
